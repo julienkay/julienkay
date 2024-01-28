@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align='center'> Hey! 👋</h1>
+<p align='center'>
+I'm Julien
+</p>
+<p align='center'>For enquiries, reach out on <a href="https://www.linkedin.com/in/julienkipp">LinkedIn</a> or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
-<!--
-**julienkay/julienkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+ <a href="https://ko-fi.com/julienkay">
+   <img height="35" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" alt="Buy Me a Coffee at ko-fi.com" />
+ </a>
+ <a href="https://www.patreon.com/julienkay">
+  <img height="35" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" alt="Become a Patron!" />
+ </a>
+</p>
